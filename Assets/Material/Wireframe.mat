@@ -120,7 +120,7 @@ Material:
     - _Wireframe_AmbientOcclusionStrength: 1
     - _Wireframe_BaseVertexColor: 0
     - _Wireframe_BumpEnumID: 0
-    - _Wireframe_ColorEmissionStrength: 0.1
+    - _Wireframe_ColorEmissionStrength: 0.2
     - _Wireframe_DistanceFade: 0
     - _Wireframe_DistanceFadeEnd: 10
     - _Wireframe_DistanceFadeStart: 5
@@ -169,7 +169,7 @@ Material:
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _ReflectColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
-    - _Wireframe_Color: {r: 0, g: 0.8979101, b: 1, a: 1}
+    - _Wireframe_Color: {r: 0, g: 0.77827644, b: 1, a: 1}
     - _Wireframe_ColorTexture_Scroll: {r: 0, g: 0, b: 0, a: 0}
     - _Wireframe_MainTex_Scroll: {r: 0, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
